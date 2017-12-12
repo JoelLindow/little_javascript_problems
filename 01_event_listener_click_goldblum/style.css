@@ -1,0 +1,26 @@
+html {
+  background-color: black;
+}
+
+button {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  left: 50%;
+  transform: translate(-50%);
+  top: 20px;
+  font-size: 40px;
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+img {
+  position: absolute;
+  width: 300px;
+  left: 50%;
+  transform: translate(-50%);
+  top: 130px;
+  border-radius: 3px;
+  border-width: thick;
+  border-color: blue;
+}
